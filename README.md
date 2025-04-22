@@ -2,8 +2,6 @@
 
 A multiplayer spelling challenge where players take turns spelling words with real-time feedback, built with Vue.js, Socket.IO, and MongoDB.
 
-![Gameplay Screenshot](./screenshot.png) *Replace with actual screenshot*
-
 ## ✨ Features
 - **Real-time gameplay** with Socket.IO
 - **Word validation** against MongoDB database
@@ -19,4 +17,4 @@ A multiplayer spelling challenge where players take turns spelling words with re
 ## 🚀 Quick Start
 1. **Clone repo**  
    ```bash
-   git clone https://github.com/your-username/spelling-bee.git
+   git clone https://github.com/MohayJS/spelling-bee.git
